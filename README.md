@@ -23,5 +23,3 @@ It would be great if we have some tool that can auto-generate outfit styles that
   After we can do this success, we can think about how to auto generate style from these color palettes.
 
 ---
-
-### Idea 02
