@@ -35,3 +35,15 @@ It would be good if we have the tool that automatically generate block and zip f
 
 <img width="959" alt="Screen Shot 2565-10-03 at 17 23 38" src="https://user-images.githubusercontent.com/5283709/193555428-0fd884cf-28d3-41f5-983c-8dce63843b49.png">
 
+---
+
+### Idea 003 by [Annibuliful](https://github.com/annibuliful)
+When consumers try on products, such as clothing, jewelry, and makeup virtually using their phones or tablets, 3D/2D will be cover position of customers body.
+
+<img width="585" alt="Screen Shot 2565-10-03 at 21 17 47" src="https://user-images.githubusercontent.com/5283709/193600366-dc976ee0-c3ca-4089-92d5-f4fdbe1df9e4.png">
+
+Ref: 
+- (awesome-virtual-try-on)[https://github.com/minar09/awesome-virtual-try-on]
+- (best 6 tools)[https://www.drip.com/blog/virtual-try-on-examples?fbclid=IwAR0ytlYbmV1ZFUX91SDDWL7XNJEU7uIylM5wZMLsu34t7-bw7c1j_GUZsU4]
+- (virtooal)[https://try.virtooal.com/en/]
+- (loreal-paris)[https://www.loreal-paris.co.uk/virtual-try-on]
