@@ -23,3 +23,15 @@ It would be great if we have some tool that can auto-generate outfit styles that
   After we can do this success, we can think about how to auto generate style from these color palettes.
 
 ---
+
+### Idea 002 by [Annibuliful](https://github.com/annibuliful)
+
+https://www.youtube.com/watch?v=KHx-XfegugQ
+In custom shirt industry cannot use this image to make reatw
+
+<img width="743" alt="Screen Shot 2565-10-03 at 17 21 45" src="https://user-images.githubusercontent.com/5283709/193555126-a6ba4044-9d2e-487f-919b-3939da32f398.png">
+
+It would be good if we have the tool that automatically generate block and zip file of image placement, text placement, SVG file with printing block
+
+<img width="959" alt="Screen Shot 2565-10-03 at 17 23 38" src="https://user-images.githubusercontent.com/5283709/193555428-0fd884cf-28d3-41f5-983c-8dce63843b49.png">
+
